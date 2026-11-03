@@ -1,0 +1,6 @@
+{
+  "name": "Physics Adventure: Misi Besaran, Satuan & Dimensi",
+  "description": "Game edukasi Fisika interaktif Fase E Kelas X SMA untuk IFP Hisense 75 Inci dengan simulasi alat ukur, analisis dimensi, konversi satuan, dan narator Bahasa Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
